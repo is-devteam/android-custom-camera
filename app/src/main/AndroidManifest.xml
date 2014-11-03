@@ -23,8 +23,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="NoCamera" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"></activity>
-        <activity android:name="NoSDCard" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"></activity>
     </application>
 
 </manifest>
