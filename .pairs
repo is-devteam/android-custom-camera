@@ -1,0 +1,15 @@
+# .pairs - configuration for 'git pair'
+# place in project or home directory
+pairs:
+  an: Arun Nagarajan; arun
+  ah: Ashraf Hanafy; ahanafy
+  eg: Edgar Gonzalez; edgar
+  tj: Trevor John; tjohn
+  wr: Will Ramsey; wramsey
+  yn: Yuki Nishijima; ynishijima
+  dp: Diesel Peltz; dpeltz
+  ce: Chris Ellsworth; chris
+email:
+  prefix: pair
+  domain: pivotallabs.com
+
